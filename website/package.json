@@ -18,12 +18,15 @@
   },
   "homepage": "https://github.com/MicaelaJofre/MediaPlayer#readme",
   "devDependencies": {
-    "parcel-bundler": "^1.12.5",
-    "typescript": "^4.9.4"
+    "parcel-bundler": "1.12.5",
+    "typescript": "4.9.4"
   },
   "browserList": [
     "last 1 chrome version",
     "last 1 firefox version",
     "last 1 safari version"
-  ]
+  ],
+  "dependencies": {
+    "@micaelajofre/mediaplayer": "^1.0.0"
+  }
 }
